@@ -33,10 +33,10 @@ The results will be saved in `results/new_fuzzing_baselines_{date}_mix/{baseline
 
 Since the invocation of ChatGPT  is different from other pre-trained models, it should be run with scripts `openai_fuzzing.py` and `openai_fuzzing_baselines.py`
 
-## Overlaps among different code feature and the two types of templates
-![](figures\code-feature.png)
+## Overlaps among different code features
+![](./figures/code-feature.png)
 
+## Overlaps among the two types of templates
 
-
-![](./figures\template.png)
+![](./figures/template.png)
 
