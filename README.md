@@ -40,3 +40,7 @@ Since the invocation of ChatGPT  is different from other pre-trained models, it 
 
 ![](./figures/template.png)
 
+### Case Study
+
+![](./figures/case.png)
+
